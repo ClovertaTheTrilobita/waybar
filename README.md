@@ -1,5 +1,7 @@
 # My configuration of waybar
 
+<img width="2560" height="59" alt="image" src="https://github.com/user-attachments/assets/f292e7fa-b7d4-4985-8d07-98736ef0d1aa" />
+
 ## Setup
 
 ### Requirements
