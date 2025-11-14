@@ -1,4 +1,4 @@
-# My configuration of waybar
+# My configuration of waybar (for Niri)
 
 <img width="2560" height="59" alt="image" src="https://github.com/user-attachments/assets/2da59110-91a5-48f6-8d11-e506b846f3cc" />
 
