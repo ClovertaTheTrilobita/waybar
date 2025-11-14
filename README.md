@@ -10,6 +10,12 @@
 python bc cava ttf-jetbrains-mono-nerd
 ```
 
+if you also want to use the good-looking [swaylock-fancy](https://github.com/Big-B/swaylock-fancy), and if you are an arch user, you can simply install it by
+
+```shell
+yay -S swaylock-fancy-git
+```
+
 ## Installation
 
 please first setup <b>[wayves](https://github.com/jvc84/wayves)</b>,
