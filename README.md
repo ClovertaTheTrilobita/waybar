@@ -7,7 +7,7 @@
 ### Requirements
 
 ```
-python bc cava
+python bc cava ttf-jetbrains-mono-nerd
 ```
 
 ## Installation
