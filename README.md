@@ -30,7 +30,7 @@ git clone https://github.com/ClovertaTheTrilobita/waybar.git
 [ -e ~/.config/waybar ] && cp -r ~/.config/waybar ~/.config/waybar.bak
 
 # use this config
-cp ./waybar ~/.config/waybar
+cp -r ./waybar ~/.config/waybar
 
 # setup wayves
 cd ~/.config/waybar/scripts/wayves/
