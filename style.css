@@ -45,6 +45,7 @@ window#waybar.empty #window {
   padding: 0 0 0 7px;
   background-color: @background;
   border: 2px solid @focused;
+  border-radius: 1rem;
 }
 
 .modules-center {
@@ -52,6 +53,7 @@ window#waybar.empty #window {
   padding: 0 10px 0 10px;
   background-color: @background;
   border: 2px solid @focused;
+  border-radius: 1rem;
 }
 
 .modules-right {
@@ -59,6 +61,7 @@ window#waybar.empty #window {
   padding: 0 10px 0 10px;
   background-color: @background;
   border: 2px solid @focused;
+  border-radius: 1rem;
 }
 
 
