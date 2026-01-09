@@ -37,6 +37,6 @@ cp assets/cava/cava_option_config ~/.config/cava
 
 <hr>
 
-This repo contains code and inspiration from <b>(DerAnsari/hyprland-dots)[https://github.com/DerAnsari/hyprland-dots/tree/main/waybar/]</b> and <b>[jvc84/wayves](https://github.com/jvc84/wayves)</b>. 
+This repo contains code and inspiration from <b>[DerAnsari/hyprland-dots](https://github.com/DerAnsari/hyprland-dots/tree/main/waybar/)</b> and <b>[jvc84/wayves](https://github.com/jvc84/wayves)</b>. 
 
 Thank you very much for your wonderful work.
