@@ -1,19 +1,13 @@
-# My configuration of waybar (for Niri)
+# Waybar dots forked & edited from (DerAnsari/hyprland-dots)[https://github.com/DerAnsari/hyprland-dots/tree/main/waybar/] (for Niri)
 
-<img width="2560" height="59" alt="image" src="https://github.com/user-attachments/assets/2da59110-91a5-48f6-8d11-e506b846f3cc" />
+<img width="2560" height="67" alt="image" src="https://github.com/user-attachments/assets/7d69052b-ceab-4c70-a378-dc7f978d0cba" />
 
 ## Setup
 
 ### Requirements
 
 ```
-python bc cava ttf-jetbrains-mono-nerd
-```
-
-if you also want to use the good-looking <b>[swaylock-fancy](https://github.com/Big-B/swaylock-fancy)</b> (it is used in this config by default), and if you are an <b>[Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)</b> user, you can simply install it by
-
-```shell
-yay -S swaylock-fancy-git
+python bc cava ttf-jetbrains-mono-nerd wlogout bluez bluez-utils btop wofi cliphist swaync
 ```
 
 ## Installation
@@ -25,6 +19,9 @@ as it's already nested in this repo, you can simply
 ```shell
 # clone this repo
 git clone https://github.com/ClovertaTheTrilobita/waybar.git
+
+# use this branch
+git checkout retro
 
 # back up your own config (if it exists)
 [ -e ~/.config/waybar ] && cp -r ~/.config/waybar ~/.config/waybar.bak
@@ -40,6 +37,6 @@ cp assets/cava/cava_option_config ~/.config/cava
 
 <hr>
 
-This repo contains code and inspiration from <b>[catppuccin/waybar](https://github.com/catppuccin/waybar)</b> and <b>[jvc84/wayves](https://github.com/jvc84/wayves)</b>. 
+This repo contains code and inspiration from <b>(DerAnsari/hyprland-dots)[https://github.com/DerAnsari/hyprland-dots/tree/main/waybar/]</b> and <b>[jvc84/wayves](https://github.com/jvc84/wayves)</b>. 
 
 Thank you very much for your wonderful work.
