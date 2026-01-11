@@ -8,7 +8,7 @@
     "modules-left": [
         "group/Utilities",
         "group/workspaces",
-        "group/Music"
+        "group/Music",
     ],
     "modules-center": [
         "group/windows"
@@ -45,7 +45,6 @@
       "modules":[
         "custom/openbracket",
         "mpris",
-        "custom/split",
         "custom/wayves",
         "custom/closebracket",
       ]
@@ -123,7 +122,7 @@
     },
 
     "mpris": {
-        "format": "  {status_icon}",
+        "format": "  {status_icon}  |",
         "interval": 1,
         "dynamic-len": 40,
         "status-icons": {
