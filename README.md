@@ -1,6 +1,6 @@
 # Waybar dots forked & edited from [DerAnsari/hyprland-dots](https://github.com/DerAnsari/hyprland-dots/tree/main/waybar/) (for Niri)
 
-<img width="2560" height="63" alt="image" src="https://github.com/user-attachments/assets/0e9c60a6-f3b9-4380-884e-18a10d0a47cd" />
+<img width="2560" height="60" alt="image" src="https://github.com/user-attachments/assets/78e7bc07-338f-4067-b2a2-10ec463791ac" />
 
 ## Setup
 
