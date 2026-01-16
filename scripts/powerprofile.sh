@@ -16,7 +16,7 @@ get_current_profile() {
     powerprofilesctl get
     ;;
   "asusctl")
-    local current_mode=$(asusctl profile -p | awk '/^Active profile is /{print tolower($NF); exit}')
+    local current_mode=$(asusctl profile get | awk '/^Active profile: /{print tolower($NF); exit}')
     if [ "$current_mode" = "quiet" ]; then
       current_mode="power-saver"
     fi
@@ -40,7 +40,7 @@ set_profile() {
       mode="quiet"
     fi
     if command -v asusctl &>/dev/null; then
-      asusctl profile -P "$mode"
+      asusctl profile set "$mode"
     fi
   fi
 }
